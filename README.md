@@ -1,4 +1,4 @@
-# Fake-Aadhaar-Detection
+# Fake Aadhaar Detection
 This project classifies the scanned aadhaar image to either real or fake image by doing two levels of testing. Fake images are the images that are digitally altered. 
 ## Level 1 Testing
 Whenever an image is altered using software tools they leave software signatures in the metadata of the image. Level 1 testing exploit this feature and tries to findout traces of any signature.
